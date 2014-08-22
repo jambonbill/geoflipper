@@ -1,4 +1,4 @@
-geoflipper
+GeoFlipper
 ==========
 
-Geoflipper data scrapper
+Geoflipper http://geoflipper.fr/ data scrapper
